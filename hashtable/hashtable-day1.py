@@ -1,3 +1,8 @@
+from linked_list import LinkedList
+import sys
+sys.path.append('../hashtable/linked_list')
+
+
 class HashTableEntry:
     """
     Linked List hash table key/value pair
